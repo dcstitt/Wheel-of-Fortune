@@ -9,6 +9,6 @@ To Play:
 4. Click 'Load Next Puzzle' to load in the next puzzle from the puzzles.txt file.
 5. Select the name of the player who is currently guessing a letter from the drop-down
 6. Enter a monetary amount (without the $) in the box next to the player's name
-	Note: There is no digital board.  I'd recommend being creative or just finding a 	random number generator online
+	Note: There is no digital board.  I'd recommend being creative or just finding a random number generator online
 7. Select a letter from the list of buttons underneath the game board
 8. If a player is ready to solve, type the phrase into the text box below the player's name and select 'Solve Puzzle'
